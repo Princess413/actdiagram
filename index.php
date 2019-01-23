@@ -4,7 +4,7 @@
 <title>Activity Diagram</title>
 </head>
 <body>
-<img src="actdia.jpg">
+<img src="activitydia.jpg">
   <p></p>
 </body>
 </html>
